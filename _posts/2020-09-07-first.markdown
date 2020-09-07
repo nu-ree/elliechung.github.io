@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Hello World!"
+date:   2020-09-07 12:00:00 +0900
+categories: test post
+---
+
+Hi there!
+This is the very first post on nu-ree.github.io.
+
+```python
+print("hello world")
+```
+
